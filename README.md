@@ -2,15 +2,16 @@
 
 ## 1. Identificação da equipe
 
-...
-
 ## 2. Caracterização da empresa
-
-...
+•	Escola de música.
+•	Murbach Music School.
+•	Educação e Ensino de Música. 
+•	Serviços educacionais na área da música, focando em aulas práticas com aplicação imediata.
+•	Pessoas interessadas no hobby ou profissionalização da Música.
+•	⁠Administração, gerência, recepção e professores.
 
 ## 3. Justificativa da escolha
-
-...
+	A Murbach Music School foi selecionada para o projeto de modelagem de dados por apresentar uma estrutura operacional diversa, com demandas reais de gestão e alto potencial de otimização da informação, ela consiste em uma operação complexa envolvendo ciclo de matrículas, alocação de professores, agendamento de aulas individuais, gestão de ensaios de Prática de Banda e organização de eventos. Hoje, existe uma necessidade de gerenciar volumes simultâneos de agendas, frequências, histórico dos alunos, remuneração de professores e acervo de instrumentos/equipamentos, evitando choques e perda de dados. Há uma oportunidade clara de centralizar e automatizar dados — da captura de leads para aulas experimentais ao controle de caixa.
 
 ## 4. Problemas identificados
 
