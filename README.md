@@ -36,7 +36,7 @@
 •	RF06 Sistema deverá ser capaz de aceitar várias formas de pagamento.
 •	RF07 sistema deverá mostrar o lucro recebido por aquele mês.
 
-5.2	Requisitos funcionais do setor Aluno:
+6.2	Requisitos funcionais do setor Aluno:
 •	RF01 – Sistema deve cadastrar alunos (nome, CPF, data de nascimento, telefone, e-mail e endereço).
 •	RF02 – Sistema deve permitir a matrícula do aluno em uma turma.
 •	RF03 – Sistema deve registrar o histórico de matrículas do aluno.
@@ -47,7 +47,7 @@
 •	RF08 – Sistema deve gerar cobrança automática quando o aluno iniciar um novo instrumento.
 
 
-5.3	Requisitos funcionais do setor Professor:
+6.3	Requisitos funcionais do setor Professor:
 •	RF01	O sistema deve permitir cadastrar um novo professor.
 •	RF02	O sistema deve permitir consultar os dados já cadastrados de um professor.
 •	RF03	O sistema deve permitir alterar os dados de um professor.
@@ -62,7 +62,7 @@
 •	RF12	O sistema deve permitir cadastrar a disponibilidade de horários do professor.
 •	RF13	O sistema deve permitir consultar o histórico de cursos dados pelo professor.
 
-5.4	Requisitos funcionais do setor RH:
+6.4	Requisitos funcionais do setor RH:
 •	RF1: sistema deve registrar quando o funcionário bater o ponto
 •	RF2: sistema deve mostrar, se o funcionário tem horas extras ou está devendo.
 •	RF3: sistema precisa receber o atestado e validar, verificar se é legítimo com CRM, e Cid médico corretos.
