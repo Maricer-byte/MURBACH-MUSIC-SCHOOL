@@ -27,7 +27,7 @@
 ...
 
 ## 6. Requisitos funcionais
-   5.1 Requisitos funcionas do setor Financeiro:
+   6.1 Requisitos funcionas do setor Financeiro:
 •	RF01 Sistema deverá cadastrar as contas a pagar.
 •	RF02 Sistema deverá cadastrar as contas a receber, que consta a receita bruta e líquida.
 •	RF03 Sistema deverá armazenar dados de Fornecedores.
@@ -70,7 +70,7 @@
 •	RF5: sistema deve avisar se estiver alguma documentação errada de algum funcionário.
 
 ## 7. Requisitos não funcionais
-   6.1 Requisitos não funcionais do setor Financeiro:
+   7.1 Requisitos não funcionais do setor Financeiro:
 •	RNF01 As trocas de informações devem ser rápidas.
 •	RNF02 Precisa que haja criptografia na hora do pagamento da matrícula.
 
