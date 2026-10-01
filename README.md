@@ -38,9 +38,9 @@
 
 ## 10. Fluxogramas
 
-Os fluxogramas representam os principais processos de negócio
-identificados no projeto.
+Os fluxogramas representam os principais processos do projeto.
 
+![Fluxograma](FLUXOGRAMA.jpeg)
 
 ## 11. Entidades
 
@@ -143,6 +143,8 @@ descrições e regras/observações.
 O Diagrama Entidade-Relacionamento representa graficamente
 as entidades, atributos, relacionamentos e cardinalidades
 do projeto.
+
+![Diagrama Entidade-Relacionamento](DER.jpeg)
 
 ## 17. Justificativas técnicas
 
